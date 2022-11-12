@@ -1,5 +1,5 @@
-# CRUMPLED-BALLS-PART-1
+# CRUMPLED-BALLS
 
 ## Crumpled Paper is an inspiration of Paper Trash.
 
-### Output Link :  https://rajdeepjaiswal.github.io/CRUMPLED-BALLS-PART-1/
+### Output Link :  https://MANAV1818.github.io/CRUMPLED-BALLS/
